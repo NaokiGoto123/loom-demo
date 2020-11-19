@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "loom-demo"
+    }
+  },
+  "defaultProject": "loom-demo",
+  "cli": {
+    "analytics": false
+  }
 }
